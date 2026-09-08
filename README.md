@@ -1,4 +1,4 @@
-# CI/CD Security Pipeline
+# Enterprise DevSecOps Reference Architecture
 
 Complete Azure DevOps CI/CD security pipeline with automated scanning, security gates, and AWS credential management.
 
